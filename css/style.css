@@ -1,0 +1,170 @@
+/*start header*/
+.header{
+	width: 100%;
+	min-height: 550px;
+	background-image: url('../img/1.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	overflow: hidden;
+}
+.overlay{
+    background-color:black;
+    opacity:.5;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    height: 550px;
+}
+.fo{
+	margin-top: 40px;
+	font-size: 24px;
+	position: relative;
+	z-index: 4;
+	color: white;
+}
+
+.header ul li a{
+	color: white;
+	font-size: 20px;
+
+}
+.header ul li a:hover{
+	color: #50c3af;
+}
+.header h2{
+	font-size: 70px;
+	position: relative;
+	z-index: 4;
+	color: white;
+}
+.header p{
+	position: relative;
+	z-index: 4;
+	color: gray;
+	font-size: 15px;
+}
+.header p span{
+	position: relative;
+	z-index: 4;
+	color: white;
+	font-size: 15px;
+}
+.header button{
+	position: relative;
+	z-index: 4;
+	margin-top: 40px;
+	background-color: #50c3af;
+	color: white;
+	font-size: 20px;
+	border-radius: 20px;
+	margin-bottom: 20px;
+}
+}
+.header button:hover{
+	background-color:  white;
+	color: #50c3af;
+}
+/*end header*/
+/* start feat*/
+.feat{
+	width: 100%;
+	min-height: 300px;
+	background-color: #eeeeef;
+}
+.box {
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+}
+.box i{
+	color: #50c3af;
+}
+.box h2{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+/*end feat*/
+/* start im*/
+.im{
+	width: 100%;
+	min-height: 450px;
+}
+.box1{
+	margin-top: 50px;
+}
+.box1 h3{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+.box1 button{
+	background-color:#50c3af;
+	border-radius: 25px;
+	color: white; 
+	margin-bottom: 20px;
+}
+.box1 button:hover{
+	color: #50c3af;
+}
+/* end im*/
+/* start fly*/
+.fly{
+	width: 100%;
+	min-height: 300px;
+	background-color: #d2d5da;
+}
+.fly i,h6,label{
+   	color: gray;
+
+}
+.box2{
+	margin-top: 50px;
+}
+.box2 button{
+	border-radius: 25px;
+	color: white; 
+}
+/*end fly*/
+/*start im2*/
+.im2{
+	width: 100%;
+	min-height: 400px;
+}
+.box1 a{
+	text-decoration: none;
+	display: block;
+	color: #50c3af ;
+	margin-bottom: 20px;
+}
+/*end im2*/
+/*start send*/
+.send{
+	width: 100%;
+	min-height: 300px;
+	background-color: #d2d5da;
+}
+/*end send*/
+/*start gt*/
+.gt{
+	width: 100%;
+	min-height: 350px;
+}
+/*end gt*/
+/*start footer*/
+.footer{
+	width: 100%;
+	height: 300px;
+	background-color: #50c3af;
+}
+.footer ul{
+    color: white;
+	font-size: 30px;
+
+}
+.footer ul li a:hover{
+	color: #50c3af;
+}
+}
+/*end footer*/
